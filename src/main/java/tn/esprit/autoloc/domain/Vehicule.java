@@ -1,4 +1,4 @@
-package tn.esprit.autoloc.autolocapi.domain;
+package tn.esprit.autoloc.domain;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

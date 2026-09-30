@@ -1,4 +1,4 @@
-package tn.esprit.autoloc.autolocapi.domain;
+package tn.esprit.autoloc.domain;
 
 public enum StatutVehicule {
     DISPONIBLE,
